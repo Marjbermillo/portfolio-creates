@@ -60,6 +60,22 @@ header{
 	background-repeat: no-repeat;
 }
 
+/*Skillset*/
+#skillset{
+	background: url(../images/skills4.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/*Educ*/
+#educ{
+	padding-top: 130px;
+	padding-bottom: 80px;
+	background: url(../images/educ.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 /*Services*/
 .services{
 	padding-top: 96px;
