@@ -124,8 +124,11 @@ background-color: #edd4c7;
 }
 /*Testimonial*/
 .testimonial{
-		padding-top: 130px;
+	padding-top: 130px;
 	padding-bottom: 80px;
+	background: url(../images/educ.png);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .testimonial{
 
